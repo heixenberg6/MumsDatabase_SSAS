@@ -18,3 +18,5 @@ Key Features
 ✔ ETL and Data Source Views for Business Intelligence  
 ✔ OLAP cube measures & dimensions for sales and customer insights  
 ✔ Advanced reporting with drill-down analysis  
+
+<img width="345" alt="producthierarchy" src="https://github.com/user-attachments/assets/3e54f84a-2c1f-40fd-a259-f1c9abe0dbea" />
