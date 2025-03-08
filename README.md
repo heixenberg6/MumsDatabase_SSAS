@@ -1,6 +1,7 @@
 MumsNet Database & Business Intelligence System
 This project is a database and business intelligence solution developed for MumsNet, a UK-based retail company, as part of the COMM051 Database Systems coursework.
 
+
 Project Overview
 The project involved:
 
